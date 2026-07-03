@@ -46,7 +46,7 @@ window.addEventListener('keydown', function(event) {
         return; // Para a execução aqui e não tenta tocar uma.
     }
 
-    //Verificar se a tecla existe no mapeamento.
+    //Verificar se a tecla existe no mapeamento...
     if (mapeamentoSons[tecla]) {
         const somConfig = mapeamentoSons[tecla];
         tocarSom(somConfig.idAudio, somConfig.idBotao);
