@@ -19,7 +19,7 @@ const mapeamentoSons = {
     'u': { idAudio: 'pica-pau-bolinha-de-golfe', idBotao: 'btn-u' },
     'i': { idAudio: 'brutal-acabou-pro-beta-globo', idBotao: 'btn-i' },
     'o': { idAudio: 'michael-jackson-hee-hee', idBotao: 'btn-o' },
-    'p': { idAudio: 'eu-finjo-que-nao-percebo-mas-tudo-esta-se ndo-obs', idBotao: 'btn-p' },
+    'p': { idAudio: 'eu-finjo-que-nao-percebo-mas-tudo-esta-sendo-obs', idBotao: 'btn-p' },
     'h': { idAudio: 'aiiii-aiii-aiiii', idBotao: 'btn-h' },
     'j': { idAudio: 'spiderman-meme-song', idBotao: 'btn-j' },
     'k': { idAudio: 'baby-laughing-meme', idBotao: 'btn-k' },
