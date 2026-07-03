@@ -7,7 +7,7 @@ body {
 }
 .grid-sons {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); /* Organiza os botões dinamicamente dependendo do tamanho da tela */
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
     gap: 10px;
     margin-top: 20px;
     padding: 10px;
